@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-h%C3%B9ng-c%C6%B0%E1%BB%9Dng-666b05248/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="" alt="Facebook">
+  <a href="https://www.facebook.com/people/Nguy%E1%BB%85n-C%C6%B0%E1%BB%9Dng/pfbid02WtS115goQtthgzxnK1ykygSRGG3ya2WpoFrjcJZ3bR6jsUTTYBg98UUkA9tm2bTKl/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/AT190510-Cuong/AT190510-Cuong" alt="Github">
