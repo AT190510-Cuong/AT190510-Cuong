@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I'm a student at ACT - [academy of cryptography techniques](https://actvn.edu.vn/).
+>- ✍ I'm a student at ACT - [academy of cryptography techniques](https://actvn.edu.vn/).
 
 <br />
 
