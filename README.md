@@ -77,3 +77,13 @@
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Python](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/python)
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Machine Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning)
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Deep Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-deep-learning)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/AT190510-Cuong/practice_CCNA.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/AT190510-Cuong/AT190510-Cuong.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
