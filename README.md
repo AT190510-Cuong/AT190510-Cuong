@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+![image](https://github.com/AT190510-Cuong/AT190510-Cuong/assets/134201481/c09105fb-11f7-436c-b062-9d4e66d60beb)<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Nguyễn Hùng Cường</h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
@@ -6,6 +6,7 @@
 
 
 >- ✍ I'm a student at ACT - [academy of cryptography techniques](https://actvn.edu.vn/).
+<img src="https://cdn.haitrieu.com/wp-content/uploads/2021/10/Logo-Hoc-Vien-Ky-Thuat-Mat-Ma-ACTVN-1.png" width=80px heught=80px />
 
 <br />
 
@@ -29,6 +30,10 @@
   <a href="AT190510@actvn.edu.vn" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
+  <a href="monstercuong7.wordpress.com" alt="Wordpress">
+    <img src="https://www.freepnglogos.com/uploads/wordpress-logo-png/wordpress-logo-png-transparent-wordpress-logo-images-pluspng-6.png" width=80px, height=80px/>
+  </a>
+
 </p>
 
 ## Skills:
@@ -47,6 +52,18 @@
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
+## Language:
+C, Java(java Swing), Python,
+Shell(Bash, Zsh, PowerShell),
+HTML, CSS, JavaScript,
+SQL(MSSQL Server, MySQL),
+knowledge of CCNA(config switch, router) using Cisco Packet Tracer
+
+## SKILL IDE:
+VIM, visual studio code, eclipse, intelliJ, netbean, CodeBlocks
+
+## CTF(Capture The Flag):
+Burp Suite, Wireshark, OWASP ZAP, IDA
 ## Activities:
 
 <table style="width:100%;">
