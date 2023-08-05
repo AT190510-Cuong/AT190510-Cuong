@@ -1,4 +1,4 @@
-![image](https://github.com/AT190510-Cuong/AT190510-Cuong/assets/134201481/c09105fb-11f7-436c-b062-9d4e66d60beb)<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<img src="https://cdn.haitrieu.com/wp-content/uploads/2021/10/Logo-Hoc-Vien-Ky-Thuat-Mat-Ma-ACTVN-1.png" width=80px heught=80px /><img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Nguyễn Hùng Cường</h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
@@ -6,7 +6,7 @@
 
 
 >- ✍ I'm a student at ACT - [academy of cryptography techniques](https://actvn.edu.vn/).
-<img src="https://cdn.haitrieu.com/wp-content/uploads/2021/10/Logo-Hoc-Vien-Ky-Thuat-Mat-Ma-ACTVN-1.png" width=80px heught=80px />
+
 
 <br />
 
