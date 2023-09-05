@@ -39,18 +39,18 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
+<!--   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/>  -->
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
+<!--   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/> -->
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
+<!--   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+  <img src="https://img.icons8.com/color/48/000000/trello.png"/> -->
 </p>
 
 ## Language:
@@ -84,7 +84,7 @@ Burp Suite, Wireshark, OWASP ZAP, IDA
 
 # Certificates:
 
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+<!--
 
 - [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1)
 - [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Machine Learning Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1)
@@ -105,4 +105,10 @@ Burp Suite, Wireshark, OWASP ZAP, IDA
 </a>
 <a href="https://github.com/AT190510-Cuong/AT190510-Cuong.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+</a>   -->
+
+Bronze Certificate in Cisco NetAcad Riders 2023:
+![image](https://github.com/AT190510-Cuong/AT190510-Cuong/assets/134201481/cc1bf7fa-a74f-4c24-8b47-fb9d337a0df5)
+<br/>
+<img align="center" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+
