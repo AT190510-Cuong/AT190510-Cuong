@@ -69,7 +69,7 @@
   <img src="https://i.postimg.cc/cLT7y2kb/icons8-javascript-48.png"/>
   <img src="https://i.postimg.cc/qvgqqFMY/icons8-php-48.png"/>
   <img src="https://i.postimg.cc/VvG1cYMN/icons8-flutter-48.png"/>
-  <img src="https://i.postimg.cc/MKMgGbJ5/icons8-shell-48.png"/>
+  <img src="https://i.postimg.cc/tCLRRN7t/icons8-bash-48.png"/>
   <img src="https://i.postimg.cc/G381B1kv/icons8-assembly-48.png"/>
   <img src="https://i.postimg.cc/qRCjrrFG/icons8-sql-64.png" width="48" height="48"/>
 <!--   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/> -->
@@ -82,7 +82,10 @@
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg">
 
 ## CTF Tools:
-Burp Suite, Nmap ,Wireshark, OWASP ZAP, gdb-peda
+<p align="center">
+  Burp Suite, Nmap ,Wireshark, OWASP ZAP, gdb-peda
+</p>
+
 ## Activities:
 
 <table style="width:100%;">
