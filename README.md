@@ -126,9 +126,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>   -->
 
-Bronze Certificate in Cisco NetAcad Riders 2023:
-<p align="center">
-<img src="https://github.com/AT190510-Cuong/AT190510-Cuong/assets/134201481/cc1bf7fa-a74f-4c24-8b47-fb9d337a0df5" width="700" height="600"/>
+Bronze Certificate in Cisco NetAcad Riders 2023: <img src="https://i.postimg.cc/dVZ0YSB9/294687-cisco-icon.png"/>
+<p align="center"> 
+<img src="https://github.com/AT190510-Cuong/AT190510-Cuong/assets/134201481/cc1bf7fa-a74f-4c24-8b47-fb9d337a0df5" width="700" height="450"/>
 <br/>
 <img align="center" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 </p>
