@@ -31,8 +31,11 @@
   <a href="AT190510@actvn.edu.vn" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
-  <a href="monstercuong7.wordpress.com" alt="Wordpress">
+<!--   <a href="monstercuong7.wordpress.com" alt="Wordpress">
     <img src="https://www.freepnglogos.com/uploads/wordpress-logo-png/wordpress-logo-png-transparent-wordpress-logo-images-pluspng-6.png" width=80px, height=80px/>
+  </a> -->
+  <a href="monstercuong7.wordpress.com" alt="Wordpress">
+    <img src="https://i.postimg.cc/7LskpPyQ/icons8-wordpress-48.png" width=48px, height=48px/>
   </a>
 
 </p>
@@ -47,6 +50,7 @@
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img src="https://i.postimg.cc/CL3VgrXS/icons8-docker-a-set-of-coupled-software-as-a-service-48.png"/>
 <!--   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/> -->
 <!--   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
