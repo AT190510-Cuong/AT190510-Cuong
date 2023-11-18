@@ -38,7 +38,7 @@
 
 </p>
 
-## IDE Skills:
+## Skills:
 <p align="center">
 <!--   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/>  -->
  
