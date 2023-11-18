@@ -59,17 +59,16 @@
 
 ## Language:
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg">
-C, Java(java Swing), Python,
-Shell(Bash, Zsh, PowerShell),
-HTML, CSS, JavaScript,
-SQL(MSSQL Server, MySQL),
-knowledge of CCNA(config switch, router) using Cisco Packet Tracer
+C, Java, Python,
+HTML, CSS, JavaScript,PHP, dart
+SQL,Shell
+knowledge of CCNA
 
-## SKILL IDE:
-VIM, visual studio code, eclipse, intelliJ, netbean, CodeBlocks
+## IDE SKILLS:
+VIM, visual studio code, eclipse, intelliJ, netbean, CodeBlocks, Android Studio
 
 ## CTF(Capture The Flag):
-Burp Suite, nmap ,Wireshark, OWASP ZAP, gdb-peda
+Burp Suite, Nmap ,Wireshark, OWASP ZAP, gdb-peda
 ## Activities:
 
 <table style="width:100%;">
