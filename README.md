@@ -25,9 +25,9 @@
   <a href="https://github.com/AT190510-Cuong/AT190510-Cuong" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
+<!--   <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
+  </a> -->
   <a href="AT190510@actvn.edu.vn" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
@@ -47,7 +47,7 @@
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
+<!--   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/> -->
 <!--   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/> -->
@@ -65,7 +65,7 @@ knowledge of CCNA(config switch, router) using Cisco Packet Tracer
 VIM, visual studio code, eclipse, intelliJ, netbean, CodeBlocks
 
 ## CTF(Capture The Flag):
-Burp Suite, Wireshark, OWASP ZAP, IDA
+Burp Suite, nmap ,Wireshark, OWASP ZAP, gdb-peda
 ## Activities:
 
 <table style="width:100%;">
