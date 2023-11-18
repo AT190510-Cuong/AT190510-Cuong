@@ -40,34 +40,48 @@
 
 </p>
 
-## Skills:
+## IDE Skills:
 <p align="center">
 <!--   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/>  -->
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+    <img src="https://i.postimg.cc/CL3VgrXS/icons8-docker-a-set-of-coupled-software-as-a-service-48.png"/>
 <!--   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/> -->
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://i.postimg.cc/CL3VgrXS/icons8-docker-a-set-of-coupled-software-as-a-service-48.png"/>
+  <img src="https://i.postimg.cc/63x1TDwf/icons8-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text.png" width="40" height="40"/>
+  <img src="https://i.postimg.cc/XJvBKvVj/icons8-android-studio-48-1.png"/>
+  <img src="https://i.postimg.cc/c12XFvr5/icons8-code-blocks-48.png"/>
+  <img src="https://i.postimg.cc/nh0mwW3c/icons8-intellij-idea-48.png"/>
+  <img src="https://i.postimg.cc/5y2dp6yt/icons8-java-eclipse-40.png"/>
+  <img src="https://i.postimg.cc/6QfmStD4/icons8-apache-netbeans-48.png"/>
+</p>
+
+## Language Skills:
+<p align="center">
+  <img src="https://i.postimg.cc/26WChpPc/icons8-c-48.png"/>
+  <img src="https://i.postimg.cc/nrdSLr06/icons8-java-48.png"/>
+  <img src="https://i.postimg.cc/Xv0L49nr/icons8-python-48.png"/>
+  <img src="https://i.postimg.cc/xjk6GfpT/icons8-html-48.png"/>
+  <img src="https://i.postimg.cc/43L1tqz9/icons8-css-48.png"/>
+  <img src="https://i.postimg.cc/cLT7y2kb/icons8-javascript-48.png"/>
+  <img src="https://i.postimg.cc/qvgqqFMY/icons8-php-48.png"/>
+  <img src="https://i.postimg.cc/VvG1cYMN/icons8-flutter-48.png"/>
+  <img src="https://i.postimg.cc/MKMgGbJ5/icons8-shell-48.png"/>
+  <img src="https://i.postimg.cc/G381B1kv/icons8-assembly-48.png"/>
+  <img src="https://i.postimg.cc/qRCjrrFG/icons8-sql-64.png" width="48" height="48"/>
 <!--   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/> -->
 <!--   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/> -->
 </p>
 
-## Language:
+
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg">
-C, Java, Python,
-HTML, CSS, JavaScript,PHP, dart
-SQL,Shell
-knowledge of CCNA
 
-## IDE SKILLS:
-VIM, visual studio code, eclipse, intelliJ, netbean, CodeBlocks, Android Studio
-
-## CTF(Capture The Flag):
+## CTF Tools:
 Burp Suite, Nmap ,Wireshark, OWASP ZAP, gdb-peda
 ## Activities:
 
