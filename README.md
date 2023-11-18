@@ -45,7 +45,8 @@
 <!--   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/>  -->
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-    <img src="https://i.postimg.cc/CL3VgrXS/icons8-docker-a-set-of-coupled-software-as-a-service-48.png"/>
+  <img src="https://i.postimg.cc/QxVPYL80/96018-xampp-icon.png" width="48" height="48"/>
+    <img src="https://i.postimg.cc/CL3VgrXS/icons8-docker-a-set-of-coupled-software-as-a-service-48.png" width="48" height="48"/>
 <!--   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/> -->
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
@@ -128,7 +129,9 @@
 </a>   -->
 
 Bronze Certificate in Cisco NetAcad Riders 2023:
-![image](https://github.com/AT190510-Cuong/AT190510-Cuong/assets/134201481/cc1bf7fa-a74f-4c24-8b47-fb9d337a0df5)
+<p align="center">
+<img src="https://github.com/AT190510-Cuong/AT190510-Cuong/assets/134201481/cc1bf7fa-a74f-4c24-8b47-fb9d337a0df5" width="700" height="600"/>
 <br/>
 <img align="center" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+</p>
 
