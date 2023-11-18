@@ -41,10 +41,10 @@
 ## IDE Skills:
 <p align="center">
 <!--   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/>  -->
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+ 
   <img src="https://i.postimg.cc/mDs3M9D0/icons8-old-vmware-logo-48.png"/>
    <img src="https://i.postimg.cc/W35D3qJm/icons8-kali-linux-100.png" width="50" height="50"/>
+   <img src="https://i.postimg.cc/ZKCfJryc/icons8-ubuntu-48.png" />
   <img src="https://i.postimg.cc/QxVPYL80/96018-xampp-icon.png" width="48" height="48"/>
     <img src="https://i.postimg.cc/CL3VgrXS/icons8-docker-a-set-of-coupled-software-as-a-service-48.png" width="48" height="48"/>
 <!--   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
@@ -58,6 +58,8 @@
   <img src="https://i.postimg.cc/nh0mwW3c/icons8-intellij-idea-48.png"/>
   <img src="https://i.postimg.cc/5y2dp6yt/icons8-java-eclipse-40.png"/>
   <img src="https://i.postimg.cc/6QfmStD4/icons8-apache-netbeans-48.png"/>
+   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 </p>
 
 ## Language Skills:
