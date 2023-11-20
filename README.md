@@ -72,6 +72,7 @@
   <img src="https://i.postimg.cc/cLT7y2kb/icons8-javascript-48.png"/>
   <img src="https://i.postimg.cc/qvgqqFMY/icons8-php-48.png"/>
   <img src="https://i.postimg.cc/VvG1cYMN/icons8-flutter-48.png"/>
+  <img src="https://i.postimg.cc/zGCtnGH3/icons8-dart-48.png"/>
   <img src="https://i.postimg.cc/tCLRRN7t/icons8-bash-48.png"/>
   <img src="https://i.postimg.cc/G381B1kv/icons8-assembly-48.png"/>
   <img src="https://i.postimg.cc/qRCjrrFG/icons8-sql-64.png" width="48" height="48"/>
