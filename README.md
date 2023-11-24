@@ -90,7 +90,7 @@
 
 ## CTF Tools:
 <p align="center">
-  Burp Suite, Nmap ,Wireshark, OWASP ZAP, gdb-peda
+   Nmap, Rustscan, Wireshark, network minor, Burp Suite, OWASP ZAP, dirsearch, arjun, hydra, gdb-peda
 </p>
 
 ## Activities:
