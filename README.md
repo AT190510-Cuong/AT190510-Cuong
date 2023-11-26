@@ -109,7 +109,7 @@
     
   <td>
      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%" autoplay loop "/>
       </p>
        <a href="https://git.io/streak-stats"><img width="705" src="https://github-readme-streak-stats.herokuapp.com?user=%20AT190510-Cuong&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true" alt="GitHub Streak" />
 </a>
@@ -124,7 +124,7 @@
     <tr>
 
   <td>
-       <img width="1000" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AT190510-Cuong&theme=dracula"/>
+       <img width="1000" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AT190510-Cuong&theme=dracula&hide_border=true"/>
       </td>
     </tr>
   </tbody>
@@ -161,6 +161,9 @@ Bronze Certificate in Cisco NetAcad Riders 2023: <img src="https://i.postimg.cc/
 
 <p align="center"> 
 <img src="https://github.com/AT190510-Cuong/AT190510-Cuong/assets/134201481/cc1bf7fa-a74f-4c24-8b47-fb9d337a0df5" width="700" height="450"/>
-<br/>
-<img align="center" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+<!-- <br/>
+<img align="center" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg"> -->
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
