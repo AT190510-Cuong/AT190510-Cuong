@@ -96,22 +96,25 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### `Activities:`
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> `Activities:`
 
 
 
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AT190510-Cuong&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="AT190510-Cuong" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=AT190510-Cuong&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="AT190510-Cuong" width="100%"/>
+<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AT190510-Cuong&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="AT190510-Cuong" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=AT190510-Cuong&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="AT190510-Cuong" width="100%"/> -->
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AT190510-Cuong&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=10&"  width="100%">
+      <img src="https://github-readme-stats.vercel.app/api?username=AT190510-Cuong&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" width="100%">
     </td>
     
   <td>
      <p align="center"> 
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%" autoplay loop "/>
       </p>
-       <a href="https://git.io/streak-stats"><img width="705" src="https://github-readme-streak-stats.herokuapp.com?user=%20AT190510-Cuong&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true" alt="GitHub Streak" />
+       <a href="https://git.io/streak-stats"><img width="705" src="https://github-readme-streak-stats.herokuapp.com?user=%20AT190510-Cuong&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" width="100%" alt="GitHub Streak" />
 </a>
     
   </td>
