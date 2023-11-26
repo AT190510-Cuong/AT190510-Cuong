@@ -1,18 +1,13 @@
 <img src="https://cdn.haitrieu.com/wp-content/uploads/2021/10/Logo-Hoc-Vien-Ky-Thuat-Mat-Ma-ACTVN-1.png" width=80px heught=80px />
+
+### `$ whoami`
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Nguyễn Hùng Cường</h1>
-<p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
-</p>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Security+Engineer;I'm+a+Full+Stack+Developer"></p>
+>- ✍ I'm a student at ACT (<a href="https://actvn.edu.vn/">academy of cryptography techniques</a>)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
->- ✍ I'm a student at ACT - [academy of cryptography techniques](https://actvn.edu.vn/).
-
-
-<br />
-
-## 📫 How to reach me:
-
+### 📫 How to reach me:
 <p align="center">
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-h%C3%B9ng-c%C6%B0%E1%BB%9Dng-666b05248/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -40,8 +35,9 @@
   </a>
 
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Skills:
+### Skills:
 <p align="center">
 <!--   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/>  -->
  
@@ -65,8 +61,9 @@
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
    <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Language Skills:
+### Language Skills:
 <p align="center">
   <img src="https://i.postimg.cc/26WChpPc/icons8-c-48.png"/>
   <img src="https://i.postimg.cc/nrdSLr06/icons8-java-48.png"/>
@@ -87,14 +84,16 @@
 </p>
 
 
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg">
 
-## CTF Tools:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### `CTF Tools`:
 <p align="center">
    Nmap, Rustscan, Wireshark, network minor, Burp Suite, OWASP ZAP, dirsearch, arjun, hydra, gdb-peda
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Activities:
+### Activities:
 
 <table style="width:100%;">
   <tr>
@@ -109,8 +108,9 @@
     </td>
   </tr>
 </table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Certificates:
+### Certificates:
 
 <!--
 
