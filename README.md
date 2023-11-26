@@ -1,13 +1,15 @@
 <img src="https://cdn.haitrieu.com/wp-content/uploads/2021/10/Logo-Hoc-Vien-Ky-Thuat-Mat-Ma-ACTVN-1.png" width=80px heught=80px />
 
 ### `$ whoami`
+
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Nguyễn Hùng Cường</h1>
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Security+Engineer;I'm+a+Full+Stack+Developer"></p>
 >- ✍ I'm a student at ACT (<a href="https://actvn.edu.vn/">academy of cryptography techniques</a>)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📫 How to reach me:
+### `📫 How to reach me:`
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-h%C3%B9ng-c%C6%B0%E1%BB%9Dng-666b05248/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -37,7 +39,8 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Skills:
+### `🖥️ Skills:`
+
 <p align="center">
 <!--   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/>  -->
  
@@ -63,7 +66,8 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Language Skills:
+### `🪐 Language Skills:`
+
 <p align="center">
   <img src="https://i.postimg.cc/26WChpPc/icons8-c-48.png"/>
   <img src="https://i.postimg.cc/nrdSLr06/icons8-java-48.png"/>
@@ -83,17 +87,18 @@
   <img src="https://img.icons8.com/color/48/000000/trello.png"/> -->
 </p>
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### `CTF Tools`:
+### `🔐 CTF Tools`:
+
 <p align="center">
    Nmap, Rustscan, Wireshark, network minor, Burp Suite, OWASP ZAP, dirsearch, arjun, hydra, gdb-peda
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Activities:
+### `Activities:`
+
+
 
 <table style="width:100%;">
   <tr>
@@ -101,16 +106,33 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AT190510-Cuong&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="AT190510-Cuong" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=AT190510-Cuong&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="AT190510-Cuong" width="100%"/>
     </td>
-    <td>
-      <p align="center"> 
+    
+  <td>
+     <p align="center"> 
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
-    </td>
+       <a href="https://git.io/streak-stats"><img width="705" src="https://github-readme-streak-stats.herokuapp.com?user=%20AT190510-Cuong&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true" alt="GitHub Streak" />
+</a>
+    
+  </td>
+
   </tr>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+
+  <td>
+       <img width="1000" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AT190510-Cuong&theme=dracula"/>
+      </td>
+    </tr>
+  </tbody>
+ 
 </table>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Certificates:
+### `📝 Certificates:`
 
 <!--
 
@@ -136,9 +158,9 @@
 </a>   -->
 
 Bronze Certificate in Cisco NetAcad Riders 2023: <img src="https://i.postimg.cc/dVZ0YSB9/294687-cisco-icon.png"/>
+
 <p align="center"> 
 <img src="https://github.com/AT190510-Cuong/AT190510-Cuong/assets/134201481/cc1bf7fa-a74f-4c24-8b47-fb9d337a0df5" width="700" height="450"/>
 <br/>
 <img align="center" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 </p>
-
