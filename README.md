@@ -170,3 +170,12 @@ Bronze Certificate in Cisco NetAcad Riders 2023: <img src="https://i.postimg.cc/
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<a href="https://github-trophies.vercel.app/?username=AT190510-Cuong" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=AT190510-Cuong&theme=radical&margin-w=4&margin-h=4">
+
+  
+</a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
