@@ -11,7 +11,7 @@
 ### `📫 How to reach me:`
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-h%C3%B9ng-c%C6%B0%E1%BB%9Dng-666b05248/" target="_blank">
+  <a href="www.linkedin.com/in/cuonghungnguyen" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/people/Nguy%E1%BB%85n-C%C6%B0%E1%BB%9Dng/pfbid02WtS115goQtthgzxnK1ykygSRGG3ya2WpoFrjcJZ3bR6jsUTTYBg98UUkA9tm2bTKl/" alt="Facebook">
