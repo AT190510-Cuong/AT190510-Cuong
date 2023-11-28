@@ -33,7 +33,7 @@
     <img src="https://i.postimg.cc/7LskpPyQ/icons8-wordpress-48.png" width=48px, height=48px/>
   </a>
    <a href="https://hackmd.io/@keTCkrJ0QlKITc5WB81F6g?fbclid=IwAR1j6Ksx5sVI9ba0ZC9SixzWv-W8xY6HXe4F6kxOoHMtV6n2V_7WyT3EkB4" target="_blank">
-    <img src="https://i.postimg.cc/pTcJrHsn/icons8-bookmark-100.png" width="50" height="50"/>
+    <img src="https://i.postimg.cc/k4TkQvTD/icons8-hack-64-2.png" width="60" height="50"/>
   </a>
 
 </p>
@@ -92,7 +92,7 @@
 ### `🔐 CTF Tools`:
 
 <p align="center">
-   Nmap, Rustscan, Wireshark, network minor, Burp Suite, OWASP ZAP, dirsearch, arjun, hydra, gdb-peda
+   Nmap, Rustscan, Wireshark, network minor, Burp Suite, OWASP ZAP, dirsearch, arjun, hydra, gdb-peda, IDA, Ghidra
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
