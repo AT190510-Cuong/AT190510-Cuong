@@ -119,10 +119,12 @@
     
   <td>
      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%" autoplay loop "/>
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="88%"  autoplay loop "/>
       </p>
-       <a href="https://git.io/streak-stats"><img width="705" src="https://github-readme-streak-stats.herokuapp.com?user=%20AT190510-Cuong&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" width="100%" alt="GitHub Streak" />
+     <p align="center"> 
+       <a href="https://git.io/streak-stats"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=%20AT190510-Cuong&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" width="100%" alt="GitHub Streak" />
 </a>
+</p>
     
   </td>
 
