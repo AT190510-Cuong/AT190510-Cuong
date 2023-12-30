@@ -114,7 +114,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=AT190510-Cuong&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="AT190510-Cuong" width="100%"/> -->
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AT190510-Cuong&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=10&"  width="100%">
-      <img src="https://github-readme-stats.vercel.app/api?username=AT190510-Cuong&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api?username=AT190510-Cuong&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" width="100%">
     </td>
     
   <td>
