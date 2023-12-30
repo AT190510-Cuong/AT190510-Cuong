@@ -99,7 +99,7 @@
 ### `🔐 CTF Tools`:
 
 <p align="center">
-   Nmap, Rustscan, Wireshark, network minor, Burp Suite, OWASP ZAP, dirsearch, arjun, hydra, gdb-peda, IDA, Ghidra
+   Nmap, Rustscan, Wireshark, network minor, Burp Suite, OWASP ZAP, dirsearch, arjun, SQLMap, hydra, john the ripper, gdb, IDA, Ghidra, pwntools
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
