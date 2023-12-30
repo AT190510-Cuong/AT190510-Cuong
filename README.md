@@ -68,6 +68,8 @@
    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
    <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
+   <img src="https://i.postimg.cc/3xg4WFHP/icons8-jupyter-48.png"/>
+   
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
