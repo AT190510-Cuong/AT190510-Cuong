@@ -1,6 +1,6 @@
 <div>
 <img src="https://cdn.haitrieu.com/wp-content/uploads/2021/10/Logo-Hoc-Vien-Ky-Thuat-Mat-Ma-ACTVN-1.png" width=80px heught=80px />
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<img align="right" width="300" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 </div>
 
 ### `$ whoami`
