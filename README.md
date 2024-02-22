@@ -107,9 +107,13 @@
 
 ### `🔐 CTF Tools`:
 
-<p align="center">
+<!-- <p align="center">
    Nmap, Rustscan, Wireshark, network minor, Burp Suite, OWASP ZAP, nuclie, dirsearch, arjun, SQLMap, hydra, john the ripper, gdb, IDA, Ghidra, pwntools framework
-</p>
+</p> -->
+- WEB: Burp Suite, OWASP ZAP, nuclie, dirsearch, arjun, SQLMap
+- PWN: gdb (peda, gef), IDA, Ghidra, pwntools framework
+- NETWORK: Nmap, Rustscan, Wireshark, network minor
+- CRACK PASSWORD: hydra, john the ripper
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> `Activities:`
