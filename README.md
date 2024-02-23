@@ -78,6 +78,7 @@
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
    <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
    <img src="https://i.postimg.cc/3xg4WFHP/icons8-jupyter-48.png"/>
+   <img src="https://i.postimg.cc/fyFLLF9h/icons8-postman-is-the-only-complete-api-development-environment-48.png" width="45" height="45"/>
    
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -97,6 +98,7 @@
   <img src="https://i.postimg.cc/tCLRRN7t/icons8-bash-48.png"/>
   <img src="https://i.postimg.cc/G381B1kv/icons8-assembly-48.png"/>
   <img src="https://i.postimg.cc/qRCjrrFG/icons8-sql-64.png" width="48" height="48"/>
+  
 <!--   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/> -->
 
 <!--  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
