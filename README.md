@@ -92,6 +92,7 @@
   <img src="https://i.postimg.cc/xjk6GfpT/icons8-html-48.png"/>
   <img src="https://i.postimg.cc/43L1tqz9/icons8-css-48.png"/>
   <img src="https://i.postimg.cc/cLT7y2kb/icons8-javascript-48.png"/>
+  <img src="https://i.postimg.cc/QCsYn9kD/icons8-typescript-48.png"/>
   <img src="https://i.postimg.cc/qvgqqFMY/icons8-php-48.png"/>
   <img src="https://i.postimg.cc/VvG1cYMN/icons8-flutter-48.png"/>
   <img src="https://i.postimg.cc/zGCtnGH3/icons8-dart-48.png"/>
