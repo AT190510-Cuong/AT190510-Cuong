@@ -19,6 +19,7 @@
 
 ### `📫 How to reach me:`
 
+<!-- 
 <p align="center">
   <a href="https://www.linkedin.com/in/cuonghungnguyen/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -29,15 +30,10 @@
   <a href="https://github.com/AT190510-Cuong/AT190510-Cuong" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-<!--   <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a> -->
+
   <a href="AT190510@actvn.edu.vn" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
-<!--   <a href="monstercuong7.wordpress.com" alt="Wordpress">
-    <img src="https://www.freepnglogos.com/uploads/wordpress-logo-png/wordpress-logo-png-transparent-wordpress-logo-images-pluspng-6.png" width=80px, height=80px/>
-  </a> -->
   <a href="monstercuong7.wordpress.com" alt="Wordpress">
     <img src="https://i.postimg.cc/7LskpPyQ/icons8-wordpress-48.png" width=48px, height=48px/>
   </a>
@@ -51,20 +47,23 @@
 
 
 </p>
+-->
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100026442424565&mibextid=ZbWKwL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cuonghungnguyen/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/monstercuong7)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### `🖥️ Skills:`
 
-<p align="center">
-<!--   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/>  -->
+
+<!--
  
   <img src="https://i.postimg.cc/mDs3M9D0/icons8-old-vmware-logo-48.png"/>
    <img src="https://i.postimg.cc/W35D3qJm/icons8-kali-linux-100.png" width="50" height="50"/>
    <img src="https://i.postimg.cc/ZKCfJryc/icons8-ubuntu-48.png" />
   <img src="https://i.postimg.cc/QxVPYL80/96018-xampp-icon.png" width="48" height="48"/>
     <img src="https://i.postimg.cc/CL3VgrXS/icons8-docker-a-set-of-coupled-software-as-a-service-48.png" width="48" height="48"/>
-<!--   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/> -->
+
+
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
@@ -83,9 +82,12 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+-->
 ### `🪐 Language Skills:`
 
-<p align="center">
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)  ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
+
+<!-- <p align="center">
   <img src="https://i.postimg.cc/26WChpPc/icons8-c-48.png"/>
   <img src="https://i.postimg.cc/nrdSLr06/icons8-java-48.png"/>
   <img src="https://i.postimg.cc/Xv0L49nr/icons8-python-48.png"/>
@@ -99,12 +101,7 @@
   <img src="https://i.postimg.cc/tCLRRN7t/icons8-bash-48.png"/>
   <img src="https://i.postimg.cc/G381B1kv/icons8-assembly-48.png"/>
   <img src="https://i.postimg.cc/qRCjrrFG/icons8-sql-64.png" width="48" height="48"/>
-  
-<!--   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/> -->
-
-<!--  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/> -->
-</p>
+ </p> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
