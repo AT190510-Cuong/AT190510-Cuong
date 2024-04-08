@@ -136,6 +136,12 @@
 <a href="https://github.com/AT190510-Cuong/Access_Control_Vulnerabilities">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=Access_Control_Vulnerabilities&theme=cobalt" />
 </a>
+<a href="https://github.com/AT190510-Cuong/CTF">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=CTF&theme=synthwave" />
+</a>
+<a href="https://github.com/AT190510-Cuong/tuyen_ban_CM_KCSC">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=tuyen_ban_CM_KCSC&theme=highcontrast" />
+</a>
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> `Activities:`
 
