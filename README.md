@@ -116,6 +116,27 @@
 - CRACK PASSWORD: hydra, john the ripper
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### `🦄 Projects`: 
+
+<a href="https://github.com/AT190510-Cuong/PortSwigger">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=PortSwigger&theme=radical" />
+</a>
+<a href="https://github.com/AT190510-Cuong/Network_Security">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=Network_Security&theme=merko" />
+</a>
+<a href="https://github.com/AT190510-Cuong/DoAnJava06">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=DoAnJava06&theme=gruvbox" />
+</a>
+<a href="https://github.com/AT190510-Cuong/PWN">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=PWN&theme=dark" />
+</a>
+<a href="https://github.com/AT190510-Cuong/dvwa">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=dvwa&theme=onedark" />
+</a>
+<a href="https://github.com/AT190510-Cuong/Access_Control_Vulnerabilities">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=Access_Control_Vulnerabilities&theme=cobalt" />
+</a>
+
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> `Activities:`
 
 
@@ -200,5 +221,6 @@ Bronze Certificate in Cisco NetAcad Riders 2023: <img src="https://i.postimg.cc/
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
