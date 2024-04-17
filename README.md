@@ -112,7 +112,7 @@
 </p> -->
 - WEB: Burp Suite, OWASP ZAP, nuclie, dirsearch, arjun, SQLMap
 - PWN: gdb (peda, gef), IDA, Ghidra, pwntools framework
-- NETWORK: Nmap, Rustscan, Wireshark, network minor, Scapy library
+- NETWORK: Nmap, Rustscan, Wireshark, network minor, Scapy library, Metasploit Framework
 - CRACK PASSWORD: hydra, john the ripper
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
