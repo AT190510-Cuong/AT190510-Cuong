@@ -133,8 +133,8 @@
 <a href="https://github.com/AT190510-Cuong/dvwa">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=dvwa&theme=onedark" />
 </a>
-<a href="https://github.com/AT190510-Cuong/Access_Control_Vulnerabilities">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=Access_Control_Vulnerabilities&theme=cobalt" />
+<a href="https://github.com/AT190510-Cuong/CyberJutsu_Lab">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=CyberJutsu_Lab&theme=cobalt" />
 </a>
 <a href="https://github.com/AT190510-Cuong/CTF">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=CTF&theme=synthwave" />
