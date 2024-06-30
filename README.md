@@ -13,7 +13,8 @@
 <!-- <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg"> -->
 <h1 align="center">Hi 👋, I'm Nguyễn Hùng Cường</h1>
 
-<p align="left" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Security+Engineer;I'm+a+Full+Stack+Developer"></p>
+<!-- <p align="left" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Security+Engineer;I'm+a+Full+Stack+Developer"></p> -->
+<p align="left" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Pentester;I'm+a+CTF+player"></p>
 >- ✍ I'm a student at ACT (<a href="https://actvn.edu.vn/">academy of cryptography techniques</a>)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
