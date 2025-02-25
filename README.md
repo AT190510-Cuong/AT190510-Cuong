@@ -214,7 +214,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>   -->
 
-Bronze Certificate in Cisco NetAcad Riders 2023: <img src="https://i.postimg.cc/dVZ0YSB9/294687-cisco-icon.png"/>
+
+
+
+<b>Burp Suite Certified Practitioner</b>( ID: <a href="https://portswigger.net/web-security/e/c/dc2075a5280160bc">DC2075A5280160BC</a>) 
+</br>
+![image](https://github.com/user-attachments/assets/27840d31-f0f9-4fc2-bee6-a00f0f4abc76)
+
+
+
+</br>
+<b>Bronze Certificate in Cisco NetAcad Riders 2023:<b/> <img src="https://i.postimg.cc/dVZ0YSB9/294687-cisco-icon.png"/>
 
 <p align="center"> 
 <img src="https://github.com/AT190510-Cuong/AT190510-Cuong/assets/134201481/cc1bf7fa-a74f-4c24-8b47-fb9d337a0df5" width="700" height="450"/>
