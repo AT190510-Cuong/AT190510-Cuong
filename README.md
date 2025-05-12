@@ -144,10 +144,10 @@
 </a>
 <a href="https://github.com/AT190510-Cuong/CyberJutsu_Lab">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=CyberJutsu_Lab&theme=cobalt" />
-</a> 
+</a> -->
 <a href="https://github.com/AT190510-Cuong/CTF">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=CTF&theme=synthwave" />
-</a> -->
+</a> 
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> `Activities:`
 
