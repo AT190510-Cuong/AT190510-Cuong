@@ -119,33 +119,35 @@
 
 ### `🦄 Projects`: 
 
-<a href="https://github.com/AT190510-Cuong/PortSwigger">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=PortSwigger&theme=radical" />
-</a>
-<a href="https://github.com/AT190510-Cuong/pentest_android">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=pentest_android&theme=synthwave" />
-</a>
-<a href="https://github.com/AT190510-Cuong/Network_Security">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=Network_Security&theme=merko" />
-</a> 
 <a href="https://github.com/AT190510-Cuong/DoAnJava06">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=DoAnJava06&theme=gruvbox" />
 </a>
-<a href="https://github.com/AT190510-Cuong/PWN">
+
+<a href="https://github.com/AT190510-Cuong/Network_Security">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=Network_Security&theme=merko" />
+</a> 
+
+ <a href="https://github.com/AT190510-Cuong/PWN">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=PWN&theme=dark" />
 </a>
 <a href="https://github.com/AT190510-Cuong/dvwa">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=dvwa&theme=onedark" />
+</a>
+ <a href="https://github.com/AT190510-Cuong/tuyen_ban_CM_KCSC">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=tuyen_ban_CM_KCSC&theme=highcontrast" />
+</a>
+<!--- <a href="https://github.com/AT190510-Cuong/PortSwigger">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=PortSwigger&theme=radical" />
+</a>
+<a href="https://github.com/AT190510-Cuong/pentest_android">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=pentest_android&theme=synthwave" />
 </a>
 <a href="https://github.com/AT190510-Cuong/CyberJutsu_Lab">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=CyberJutsu_Lab&theme=cobalt" />
 </a> 
 <a href="https://github.com/AT190510-Cuong/CTF">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=CTF&theme=synthwave" />
-</a>
-<a href="https://github.com/AT190510-Cuong/tuyen_ban_CM_KCSC">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=tuyen_ban_CM_KCSC&theme=highcontrast" />
-</a>
+</a> -->
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> `Activities:`
 
