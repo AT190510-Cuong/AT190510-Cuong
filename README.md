@@ -141,10 +141,11 @@
 </a>
 <a href="https://github.com/AT190510-Cuong/pentest_android">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=pentest_android&theme=synthwave" />
-</a>
+</a> -->
 <a href="https://github.com/AT190510-Cuong/CyberJutsu_Lab">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=CyberJutsu_Lab&theme=cobalt" />
-</a> -->
+</a>
+
 <a href="https://github.com/AT190510-Cuong/CTF">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=CTF&theme=synthwave" />
 </a> 
