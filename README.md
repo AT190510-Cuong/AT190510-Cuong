@@ -133,9 +133,7 @@
 <a href="https://github.com/AT190510-Cuong/dvwa">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=dvwa&theme=onedark" />
 </a>
- <a href="https://github.com/AT190510-Cuong/tuyen_ban_CM_KCSC">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=tuyen_ban_CM_KCSC&theme=highcontrast" />
-</a>
+
 <!--- <a href="https://github.com/AT190510-Cuong/PortSwigger">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=PortSwigger&theme=radical" />
 </a>
@@ -143,7 +141,7 @@
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=pentest_android&theme=synthwave" />
 </a> -->
 <a href="https://github.com/AT190510-Cuong/CyberJutsu_Lab">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=CyberJutsu_Lab&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=tuyen_ban_CM_KCSC&theme=cobalt" />
 </a>
 
 <a href="https://github.com/AT190510-Cuong/CTF">
