@@ -152,8 +152,8 @@
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=self-study&theme=gruvbox" />
 </a>
 
-<a href="https://github.com/AT190510-Cuong/Network_Security">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=Network_Security&theme=merko" />
+<a href="https://github.com/AT190510-Cuong/BlueCyber">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=BlueCyber&theme=merko" />
 </a> 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> `Activities:`
 
