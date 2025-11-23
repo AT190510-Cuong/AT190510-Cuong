@@ -130,9 +130,6 @@
  <a href="https://github.com/AT190510-Cuong/PWN">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=PWN&theme=dark" />
 </a>
-<a href="https://github.com/AT190510-Cuong/dvwa">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=dvwa&theme=onedark" />
-</a>
 
 <a href="https://github.com/AT190510-Cuong/PortSwigger">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=PortSwigger&theme=radical" />
@@ -144,8 +141,12 @@
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=tuyen_ban_CM_KCSC&theme=cobalt" />
 </a>
 
-<a href="https://github.com/AT190510-Cuong/CTF">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=CTF&theme=synthwave" />
+<a href="https://github.com/AT190510-Cuong/CVE-2025-65482-XXE-">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=CVE-2025-65482-XXE-&theme=onedark" />
+</a>
+
+<a href="https://github.com/AT190510-Cuong/CVE-2025-64087-SSTI-">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=CVE-2025-64087-SSTI-&theme=synthwave" />
 </a> 
 
 <a href="https://github.com/AT190510-Cuong/self-study">
