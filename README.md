@@ -231,6 +231,9 @@
 </br>
 ![image](https://github.com/user-attachments/assets/27840d31-f0f9-4fc2-bee6-a00f0f4abc76)
 
+</br>
+<b>Cisco Certified Network Associate (CCNA)<b/>
+<img width="1056" height="816" alt="image" src="https://github.com/user-attachments/assets/8d649403-5a65-4852-95c0-046300ed67d2" />
 
 
 </br>
