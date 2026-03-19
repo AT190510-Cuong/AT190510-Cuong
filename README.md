@@ -135,6 +135,14 @@
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=pentest_android&theme=synthwave" />
 </a>
 
+<a href="https://github.com/AT190510-Cuong/pentest_cloud">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=Network_Security&theme=merko" />
+</a> 
+
+ <a href="https://github.com/AT190510-Cuong/Pentest_hethong">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=PWN&theme=dark" />
+</a>
+
 <a href="https://github.com/AT190510-Cuong/tuyen_ban_CM_KCSC">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=tuyen_ban_CM_KCSC&theme=cobalt" />
 </a>
