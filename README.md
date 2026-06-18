@@ -127,6 +127,10 @@
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=CVE-2025-64087-SSTI-&theme=synthwave" />
 </a> 
 
+<a href="https://github.com/AT190510-Cuong/CVE-2026-38165-SSTI-">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=CVE-2026-38165-SSTI-&theme=merko" />
+</a> 
+
 <a href="https://github.com/AT190510-Cuong/BlueCyber">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=AT190510-Cuong&repo=BlueCyber&theme=merko" />
 </a> 
